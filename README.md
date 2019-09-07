@@ -11,6 +11,6 @@ We currently can only run one command at a time. If the user input contains spac
 For T-Mobile Hacktober 2018
 
 Team members:
--   **Dien Tran**: dkt180000@utdallas.edu
+-   **Dien Tran**: dien.kim.tran@utdallas.edu
 -   **Arshdeep Singh**: arshdeep.singh2@utdallas.edu
 -   **Jonathan Gonzalez**: jsg170000@utdallas.edu
